@@ -1,5 +1,6 @@
 import _ from 'lodash'
 import './style.css'
+import './style.scss'
 import icon from './icon.png'
 
 function component() {
