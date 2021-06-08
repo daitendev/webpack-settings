@@ -70,5 +70,6 @@ module.exports = {
       ),
       new OptimizeCssAssetsWebPackPlugin()
     ]
-  }
+  },
+  devtool: 'eval-source-map'
 }
